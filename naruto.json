@@ -1,0 +1,50 @@
+[
+  {
+    "id": "1",
+    "imgUrl": "src/assets/naruto.jpg"
+  },
+  {
+    "id": "2",
+    "imgUrl": "src/assets/sasuke.jpg"
+  },
+  {
+    "id": "3",
+    "imgUrl": "src/assets/kakashi.jpg"
+  },
+  {
+    "id": "4",
+    "imgUrl": "src/assets/deidara.jpg"
+  },
+  {
+    "id": "5",
+    "imgUrl": "src/assets/kurenai.jpg"
+  },
+  {
+    "id": "6",
+    "imgUrl": "src/assets/minato.jpg"
+  },
+  {
+    "id": "7",
+    "imgUrl": "src/assets/sakura.jpg"
+  },
+  {
+    "id": "8",
+    "imgUrl": "src/assets/itachi.jpg"
+  },
+  {
+    "id": "9",
+    "imgUrl": "src/assets/kushina.jpg"
+  },
+  {
+    "id": "10",
+    "imgUrl": "src/assets/neji.jpg"
+  },
+  {
+    "id": "11",
+    "imgUrl": "src/assets/hidan.jpg"
+  },
+  {
+    "id": "12",
+    "imgUrl": "src/assets/tsunade.jpg"
+  }
+]
