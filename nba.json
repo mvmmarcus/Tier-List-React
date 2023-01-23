@@ -1,50 +1,50 @@
 [
   {
     "id": "1",
-    "imgUrl": "src/assets/lakers.jpg"
+    "imgUrl": "/static/assets/lakers.jpg"
   },
   {
     "id": "2",
-    "imgUrl": "src/assets/gsw.jpg"
+    "imgUrl": "/static/assets/gsw.jpg"
   },
   {
     "id": "3",
-    "imgUrl": "src/assets/cavs.jpg"
+    "imgUrl": "/static/assets/cavs.jpg"
   },
   {
     "id": "4",
-    "imgUrl": "src/assets/heat.jpg"
+    "imgUrl": "/static/assets/heat.jpg"
   },
   {
     "id": "5",
-    "imgUrl": "src/assets/knicks.jpg"
+    "imgUrl": "/static/assets/knicks.jpg"
   },
   {
     "id": "6",
-    "imgUrl": "src/assets/grizzlies.jpg"
+    "imgUrl": "/static/assets/grizzlies.jpg"
   },
   {
     "id": "7",
-    "imgUrl": "src/assets/nets.jpg"
+    "imgUrl": "/static/assets/nets.jpg"
   },
   {
     "id": "8",
-    "imgUrl": "src/assets/okc.jpg"
+    "imgUrl": "/static/assets/okc.jpg"
   },
   {
     "id": "9",
-    "imgUrl": "src/assets/pelicans.jpg"
+    "imgUrl": "/static/assets/pelicans.jpg"
   },
   {
     "id": "10",
-    "imgUrl": "src/assets/suns.jpg"
+    "imgUrl": "/static/assets/suns.jpg"
   },
   {
     "id": "11",
-    "imgUrl": "src/assets/spurs.jpg"
+    "imgUrl": "/static/assets/spurs.jpg"
   },
   {
     "id": "12",
-    "imgUrl": "src/assets/raptors.jpg"
+    "imgUrl": "/static/assets/raptors.jpg"
   }
 ]

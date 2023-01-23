@@ -1,50 +1,50 @@
 [
   {
     "id": "1",
-    "imgUrl": "src/assets/naruto.jpg"
+    "imgUrl": "/static/assets/naruto.jpg"
   },
   {
     "id": "2",
-    "imgUrl": "src/assets/sasuke.jpg"
+    "imgUrl": "/static/assets/sasuke.jpg"
   },
   {
     "id": "3",
-    "imgUrl": "src/assets/kakashi.jpg"
+    "imgUrl": "/static/assets/kakashi.jpg"
   },
   {
     "id": "4",
-    "imgUrl": "src/assets/deidara.jpg"
+    "imgUrl": "/static/assets/deidara.jpg"
   },
   {
     "id": "5",
-    "imgUrl": "src/assets/kurenai.jpg"
+    "imgUrl": "/static/assets/kurenai.jpg"
   },
   {
     "id": "6",
-    "imgUrl": "src/assets/minato.jpg"
+    "imgUrl": "/static/assets/minato.jpg"
   },
   {
     "id": "7",
-    "imgUrl": "src/assets/sakura.jpg"
+    "imgUrl": "/static/assets/sakura.jpg"
   },
   {
     "id": "8",
-    "imgUrl": "src/assets/itachi.jpg"
+    "imgUrl": "/static/assets/itachi.jpg"
   },
   {
     "id": "9",
-    "imgUrl": "src/assets/kushina.jpg"
+    "imgUrl": "/static/assets/kushina.jpg"
   },
   {
     "id": "10",
-    "imgUrl": "src/assets/neji.jpg"
+    "imgUrl": "/static/assets/neji.jpg"
   },
   {
     "id": "11",
-    "imgUrl": "src/assets/hidan.jpg"
+    "imgUrl": "/static/assets/hidan.jpg"
   },
   {
     "id": "12",
-    "imgUrl": "src/assets/tsunade.jpg"
+    "imgUrl": "/static/assets/tsunade.jpg"
   }
 ]

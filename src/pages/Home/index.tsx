@@ -72,13 +72,13 @@ export function Home() {
               onSelect={setSelectedTemplate}
               id="naruto"
               title="Naruto"
-              bgImage="/src/assets/naruto.jpg"
+              bgImage="/static/assets/naruto.jpg"
             />
             <TierListCard
               onSelect={setSelectedTemplate}
               id="nba"
               title="NBA"
-              bgImage="/src/assets/lakers.jpg"
+              bgImage="/static/assets/lakers.jpg"
             />
           </S.TemplatesBox>
         </>
